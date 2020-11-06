@@ -5,7 +5,8 @@ Using React and Leaflet to render Markers and Popups in a map in React.
 # Scripts Disponíveis
 No diretório do projeto, você pode executar:
 
- yarn start
+1 - yarn install
+2 - yarn start
 
 Executa o aplicativo no modo de desenvolvimento. 
 Abra http: // localhost: 3000 para visualizá-lo no navegador.
